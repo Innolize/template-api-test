@@ -1,0 +1,9 @@
+entity: Author
+items:
+  author0:
+    firstName: 'John'
+    lastName: 'Doe'
+
+  author1:
+    firstName: 'Jane'
+    lastName: 'Doe'
